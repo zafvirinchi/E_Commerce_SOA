@@ -1,0 +1,8 @@
+com\rainbowforest\productcatalogservice\entity\Product.class
+com\rainbowforest\productcatalogservice\service\ProductService.class
+com\rainbowforest\productcatalogservice\controller\AdminProductController.class
+com\rainbowforest\productcatalogservice\repository\ProductRepository.class
+com\rainbowforest\productcatalogservice\controller\ProductController.class
+com\rainbowforest\productcatalogservice\ProductCatalogServiceApplication.class
+com\rainbowforest\productcatalogservice\http\header\HeaderGenerator.class
+com\rainbowforest\productcatalogservice\service\ProductServiceImpl.class
